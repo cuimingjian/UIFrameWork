@@ -1,0 +1,29 @@
+﻿{
+    "infolist": [
+        {
+            "mediatorTypeString": "BagView",
+            "path": "UIMediator/BagMediator"
+        },
+        {
+            "mediatorTypeString": "TaskView",
+            "path": "UIMediator/TaskMediator"
+        },
+        {
+            "mediatorTypeString": "ShopView",
+            "path": "UIMediator/ShopMediator"
+        },
+        {
+            "mediatorTypeString": "SkillView",
+            "path": "UIMediator/SkillMediator"
+        },
+        {
+            "mediatorTypeString": "SystemView",
+            "path": "UIMediator/SystemMediator"
+        },
+        {
+            "mediatorTypeString": "MainUIView",
+            "path": "UIMediator/MainUIMediator"
+        }
+    ]
+}
+
